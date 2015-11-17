@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/App.js"],"names":[],"mappings":";;;;2BAAwB,eAAe;;;;AAEvC,QAAQ,CAAC,MAAM,CACX,mDAAe,EACf,QAAQ,CAAC,cAAc,CAAC,SAAS,CAAC,CACrC,CAAC","file":"App.js","sourcesContent":["import BattleShips from './BattleShips'\r\n\r\nReactDOM.render(\r\n    <BattleShips />,\r\n    document.getElementById('content')\r\n);"]}
